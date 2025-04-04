@@ -1,0 +1,29 @@
+.modal{
+    border: 3px solid;
+display: none;
+background-color: rgb(39, 36, 36);
+color: white;
+
+}
+table{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+td{
+    border: 1px solid;
+    padding: 1.6rem;
+}
+.v-btn{
+    height: 40px;
+    width: 100px;
+}
+.cl-btn{
+    background-color: red;
+    height: 40px;
+    width: 40px;
+    color: white;
+    border-radius: 50%;
+}
